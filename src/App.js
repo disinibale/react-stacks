@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   
-  const array = ['Wow', 'Thats', 'Good']
+  const array = ['Andre', 'Benny', 'Dakota']
   const arrLength = array.length
   
   const handleNameChange = () => {
